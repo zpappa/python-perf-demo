@@ -1,0 +1,6 @@
+appoptics-apm==3.4.8
+decorator==4.3.2
+Django==2.1.7
+numpy==1.16.1
+pytz==2018.9
+six==1.12.0
