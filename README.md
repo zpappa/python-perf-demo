@@ -1,7 +1,8 @@
 # Requirements
 * Python3.5 or higher
+* virtualenv
 # Install instructions
-* cd <directory containing this>
+* cd < directory containing this file >
 * virtualenv python-perf-demo/
 * source bin/activate
 * pip install -r requirements.txt
