@@ -1,10 +1,10 @@
 # Requirements
 * Python3.5 or higher
 # Install instructions
-* pip install -r requirements.txt
+* cd <directory containing this>
 * virtualenv python-perf-demo/
-* cd python-perf-demo
 * source bin/activate
+* pip install -r requirements.txt
 * export APPOPTICS_SERVICE_KEY=<your service key>
 * cd server
 # Run instructions
