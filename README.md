@@ -10,3 +10,4 @@
 * cd server
 # Run instructions
 * python manage.py runserver
+* Goto http://localhost:8000/demo
